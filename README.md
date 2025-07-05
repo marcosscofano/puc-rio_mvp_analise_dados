@@ -16,4 +16,4 @@ Repositório com o objetivo de armazenar os artefatos coletados ou desenvolvidos
 **Conteúdo:**
 
 - KaggleV2-May-2016.csv: dataset de consultas médicas;
-- 
+- Análise_de_Dados_e_Boas_Práticas_(Marcos_Scofano_4052025000585).ipynb: notebook desenvolvido para a proposta do MVP.
