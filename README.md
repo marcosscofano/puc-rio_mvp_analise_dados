@@ -15,4 +15,5 @@ Repositório com o objetivo de armazenar os artefatos coletados ou desenvolvidos
 
 **Conteúdo:**
 
+- KaggleV2-May-2016.csv: dataset de consultas médicas;
 - 
